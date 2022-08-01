@@ -1,0 +1,22 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "This repository contains Rockwell website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamSingh108/rockwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamSingh108/rockwell/issues"
+  },
+  "homepage": "https://github.com/ShubhamSingh108/rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
